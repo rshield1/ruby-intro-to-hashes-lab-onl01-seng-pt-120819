@@ -3,7 +3,7 @@ new_hash = {}
 end
 
 def actor
-
+hash => {:
 end
 
 def monopoly
